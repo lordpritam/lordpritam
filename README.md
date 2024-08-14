@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Pritam Rajbhar
 - 👀 I’m interested in Analyzing data, visualizing and applying ML algorithms
-- 🌱 I have a Bachelor's in Statistics and Recently I completed my Master's in Data-science
+- 🌱 I have a Bachelor's in Statistics and Master's in Data-science
 - 💞️ I’m looking to collaborate on Data-science projects and Dashboard 
 - 📫 How to reach me rpritam1569@gmail.com
 
